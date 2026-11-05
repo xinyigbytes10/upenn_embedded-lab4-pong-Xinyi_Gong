@@ -11,6 +11,9 @@
 * @date        April 19, 2021
 * @version		1.0
 *****************************************************************************/
+#ifndef F_CPU
+#define F_CPU 16000000UL
+#endif
 
 #include <avr/io.h>
 #include <util/delay.h>
