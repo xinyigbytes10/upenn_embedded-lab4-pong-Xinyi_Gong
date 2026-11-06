@@ -4,7 +4,7 @@
 
 | Team Member Name | Email Address       | GitHub Handle       |
 |------------------|---------------------|---------------------|
-| [Name 1]         | [Email 1]           | [Handle 1]          |
+| [Xinyi Gong]         | [xinyig10@engineering.upenn.edu]           | [xinyigbytes10]          |
 
 
 
