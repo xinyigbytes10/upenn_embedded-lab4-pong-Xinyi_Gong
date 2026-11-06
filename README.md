@@ -1,6 +1,6 @@
 # Lab 4 Pong
 
-**GitHub Repository URL:**
+**GitHub Repository URL:** https://github.com/xinyigbytes10/upenn_embedded-lab4-pong-Xinyi_Gong
 
 | Team Member Name | Email Address       | GitHub Handle       |
 |------------------|---------------------|---------------------|
