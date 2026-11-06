@@ -6,8 +6,8 @@
 |------------------|---------------------|---------------------|
 | [Xinyi Gong]         | [xinyig10@engineering.upenn.edu]           | [xinyigbytes10]          |
 
-
-
+## PART A:
+![Part A](image/parta.png)
 
 ## Part E: Take It Further
 
